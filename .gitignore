@@ -1,0 +1,10 @@
+.DS_Store
+*.pickle
+*.pkl
+*.zip
+*.csv
+*.xlsx
+*.xls
+
+#folder
+plot/
